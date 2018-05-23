@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to EcoToxXplorer Tutorial
 
-You can use the [editor on GitHub](https://github.com/ecotoxxplorer/ecotoxxplorer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[EcoToxXplorer](http://www.ecotoxxplorer.ca) is a comprehensive web application for -OMICs data analysis and interpretation towards risk assessment of chemicals. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### DATA UPLOADING, PROCESSING AND NORMALIZATION
+### Data preparation and uploading
 
-### Markdown
+![Image](src)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,8 +26,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
