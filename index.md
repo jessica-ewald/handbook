@@ -7,6 +7,12 @@
 
 ![Image](DataUpload_RNAseq.png)
 
+![Image](DataQuality_RNAseq.png)
+
+[Image](DataNormalization_RNAseq.png)
+
+[Image](DataNormalization_boxplot_RNAseq.png)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
