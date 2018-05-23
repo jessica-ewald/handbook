@@ -3,15 +3,17 @@
 [EcoToxXplorer](http://www.ecotoxxplorer.ca) is a comprehensive web application for -OMICs data analysis and interpretation towards risk assessment of chemicals. 
 
 ### DATA UPLOADING, PROCESSING AND NORMALIZATION
-### Data preparation and uploading
-
+#### Data preparation and uploading
 ![Image](DataUpload_RNAseq.png)
 
+#### Quality check
 ![Image](DataQuality_RNAseq.png)
 
-[Image](DataNormalization_RNAseq.png)
+#### Data normalization
+![Image](DataNormalization_RNAseq.png)
 
-[Image](DataNormalization_boxplot_RNAseq.png)
+#### Statistical analysis of normalization results
+![Image](DataNormalization_boxplot_RNAseq.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
