@@ -5,7 +5,7 @@
 ### DATA UPLOADING, PROCESSING AND NORMALIZATION
 ### Data preparation and uploading
 
-![Image](src)
+![Image](DataUpload_RNAseq.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
