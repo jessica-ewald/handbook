@@ -2,11 +2,14 @@
 
 [EcoToxXplorer](http://www.ecotoxxplorer.ca) is a comprehensive web application for -OMICs data analysis and interpretation towards risk assessment of chemicals. 
 
+To make the data analysis process as simple and as painless as possible, EcoToxXplorer uses a step-wise data processing pipeline that guides users through all the major data processing steps beginning with data-type selection, formatting, “cleansing” and normalization. 
+
 ### DATA UPLOADING, PROCESSING AND NORMALIZATION
 #### Data preparation and uploading
 ![Image](DataUpload_RNAseq.png)
 
 #### Quality check
+Prior to conducting any kind of data analysis in transcriptomics, it is important to assess the overall data quality and to see if there are any obvious outliers. As there are no obvious outliers based on the above procedures, we will redo our data normalization to create some “artificial” outliers - for illustration purposes only. Click the “normalization” hyperlink on the navigation tree to return to the “Data Normalization” page. Make sure to set the Sample normalization as “none”, choose “Auto scaling” for Data scaling, and click the “Submit” button. The previously normalized data is now overwritten by the new data containing several artificial outliers.
 ![Image](DataQuality_RNAseq.png)
 
 #### Data normalization
