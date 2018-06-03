@@ -1,8 +1,14 @@
-## Other Tools Tutorial
+## Other Utilities Tutorial
+
+# [Sequence search](http://www.ecotoxxplorer.ca/faces/tools/BLAST.xhtml)
+
+Sequence search is a tool that enables researchers for comparing query sequences with pre-built reference libraries of different species given certain thresholds. The tool is based on the well-known BLAST (Basic Local Alignment Search Tool) algorithm. It accepts all primary biological sequences such as the nucleotides of DNA sequences and the amino-acid sequences of proteins.
 
 ![Image](Blast_sequence_input.png)
 ![Image](Blast_run.png)
 ![Image](Blast_results.png)
+
+# [Chemical search](http://www.ecotoxxplorer.ca/faces/tools/ChemSearch.xhtml)
 
 ![Image](QSAR_chemical_search.png)
 ![Image](QSAR_chemical_selection.png)
