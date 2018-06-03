@@ -10,6 +10,8 @@ Sequence search is a tool that enables researchers for comparing query sequences
 
 # [Chemical search](http://www.ecotoxxplorer.ca/faces/tools/ChemSearch.xhtml)
 
+High-throughput screening (HTS) experiments provide a valuable resource that reports biological activity of numerous chemical compounds relative to their molecular targets. Quantitive structure-activity relationship analysis and modeling enables exploring the activity status of input query chemicals such as toxic vs. non-toxic. [Chemical search](http://www.ecotoxxplorer.ca/faces/tools/ChemSearch.xhtml) tool in [EcoToxXplorer](http://www.ecotoxxplorer.ca) provides a workflow to explor activities of about 9,000 chemicals and reference [ToxCast assays](https://www.epa.gov/chemical-research/toxicity-forecaster-toxcasttm-data).
+
 ![Image](QSAR_chemical_search.png)
 ![Image](QSAR_chemical_selection.png)
 ![Image](QSAR_endpoint_selection.png)
