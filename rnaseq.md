@@ -1,9 +1,9 @@
 ## RNAseq Analysis Tutorial
 
-- [Data Upload and Annotation](rnaseq_upload.md)
-- [Data Summary and Quality Check](rnaseq_qc.md)
-- [Data Filtering & Normalization](rnaseq_filtering.md)
-- [Differential Expression Analysis](rnaseq_DEG.md)
+1. [Data Upload and Annotation](rnaseq_upload.md)
+2. [Data Summary and Quality Check](rnaseq_qc.md)
+3. [Data Filtering & Normalization](rnaseq_filtering.md)
+4. [Differential Expression Analysis](rnaseq_DEG.md)
 - Expression Tools for Interactive Analysis
   - [Volcano Plot Tool](rnaseq_volcano_tool.md)
   - [Heatmap Tool](heatmap_tool.md)
