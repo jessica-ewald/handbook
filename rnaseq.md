@@ -8,13 +8,11 @@
 - [Data Summary and Quality Check](rnaseq_qc.md)
 - [Data Filtering & Normalization](rnaseq_filtering.md)
 - [Differential Expression Analysis](rnaseq_DEG.md)
--- [Volcano Plot Tool](rnaseq_volcano_tool.md)
--- [Heatmap Tool](heatmap_tool.md)
--- [Enrichment Network Tool](enrichment_network_tool.md)
--- [Pathway Dysregulation Analysis Tool](dysregulation_tool.md)
+-   [Volcano Plot Tool](rnaseq_volcano_tool.md)
+-   [Heatmap Tool](heatmap_tool.md)
+-   [Enrichment Network Tool](enrichment_network_tool.md)
+-   [Pathway Dysregulation Analysis Tool](dysregulation_tool.md)
 
-
-![Image](RNAseq_pathway_dysregulation.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
