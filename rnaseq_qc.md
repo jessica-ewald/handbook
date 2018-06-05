@@ -3,3 +3,4 @@
 ![Image](RNAseq_prefiltering_boxplot.png)
 ![Image](RNAseq_prefiltering_pca.png)
 ![Image](RNAseq_prefiltering_count.png)
+![Image](rnaseq_filtering_msdplot)
