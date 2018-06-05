@@ -10,31 +10,6 @@
   - [Enrichment Network Tool](enrichment_network_tool.md)
   - [Pathway Dysregulation Analysis Tool](dysregulation_tool.md)
 
-#### Statistical analysis of normalization results
-![Image](RNAseq_main.png)
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Support or Contact
 
