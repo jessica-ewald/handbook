@@ -16,4 +16,4 @@ Please choose one of the following tutorials:
 
 ### Support or Contact
 
-Having trouble with Pages or Functionalities? contact othman.soufan[at]mcgill[dot]ca or jeff.xia[at]mcgill[dot]ca
+Having trouble with Pages/Tools? contact othman.soufan [at] mcgill[dot]ca or jeff.xia [at] mcgill[dot]ca
