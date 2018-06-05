@@ -12,3 +12,8 @@ Please choose one of the following tutorials:
 - [Other utilities in EcoToxXplorer](othertools.md)
 
 ![Image](RNAseq_main.png)
+
+
+### Support or Contact
+
+Having trouble with Pages or Functionalities? contact othman.soufan[at]mcgill[dot]ca or jeff.xia[at]mcgill[dot]ca
