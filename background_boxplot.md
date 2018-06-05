@@ -7,4 +7,4 @@ The following image show several box plots generated for the different samples i
 
 Normalization can be used to fix for discrepencies in the data and the box plot can be use again as a tool to graphically visualize the conditions of the data. The following boxplot figure highlights the effect of normalization.
 
-![Image](qc_boxplot_0dpi300.png)
+![Image](qc_norm_boxplot_0dpi300.png)
