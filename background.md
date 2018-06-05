@@ -7,8 +7,8 @@ as diagnostic, evaluation and exploration tools.
 Please enjoy reading any of the following background matrial:
 
 - [What is a box plot?](background_boxplot.md)
-- [What is a heatmap? (under preparation)]()
-- [What is a volcano plot? (under preparation)]()
-- [What is a pca plot? (under preparation)]()
-- [What is a pathway? (under preparation)]()
-- Other descriptive tools
+- What is a heatmap? (under preparation)
+- What is a volcano plot? (under preparation)
+- What is a pca plot? (under preparation)
+- What is a pathway? (under preparation)
+- Other descriptive tools (under preparation)
