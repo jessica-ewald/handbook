@@ -11,3 +11,4 @@ Please choose one of the following tutorials:
 - [RNAseq analysis in EcoToxXplorer](rnaseq.md)
 - [Other utilities in EcoToxXplorer](othertools.md)
 
+![Image](RNAseq_main.png)
