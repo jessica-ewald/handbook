@@ -8,7 +8,7 @@ Please enjoy reading any of the following background matrial:
 
 - [What is a box plot?](background_boxplot.md)
 - [What is a heatmap?](background_hmap.md)
-- What is a volcano plot? (under preparation)
+- [What is a volcano plot?](background_volcano.md)
 - What is a pca plot? (under preparation)
 - What is a pathway? (under preparation)
 - Other descriptive tools (under preparation)
