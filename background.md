@@ -12,4 +12,4 @@ Please enjoy reading any of the following background matrial:
 - [What is an MSD plot?](background_msd.md)
 - [What is a PCA plot?](background_pca.md)
 - [What is a pathway?](background_pathway.md)
-- Other descriptive tools (under preparation)
+- [Other descriptive tools](background_others.md)
