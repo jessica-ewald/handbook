@@ -14,9 +14,6 @@ In this case, we will select “Normalization by sum” for sample normalization
 
 #### Statistical analysis of normalization results
 ![Image](RNAseq_main.png)
-![Image](RNAseq_prefiltering_boxplot.png)
-![Image](RNAseq_prefiltering_pca.png)
-![Image](RNAseq_prefiltering_count.png)
 ![Image](RNAseq_normalization_boxplot.png)
 ![Image](RNAseq_normalization_pca.png)
 ![Image](RNAseq_normalization_density.png)
