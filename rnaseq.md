@@ -1,17 +1,19 @@
 ## RNAseq Analysis Tutorial
 
-
-#### Statistical analysis of normalization results
-![Image](RNAseq_main.png)
-
 - [Data Upload and Annotation](rnaseq_upload.md)
 - [Data Summary and Quality Check](rnaseq_qc.md)
 - [Data Filtering & Normalization](rnaseq_filtering.md)
 - [Differential Expression Analysis](rnaseq_DEG.md)
--   [Volcano Plot Tool](rnaseq_volcano_tool.md)
--   [Heatmap Tool](heatmap_tool.md)
--   [Enrichment Network Tool](enrichment_network_tool.md)
--   [Pathway Dysregulation Analysis Tool](dysregulation_tool.md)
+- Expression Tools for Interactive Analysis
+  - [Volcano Plot Tool](rnaseq_volcano_tool.md)
+  - [Heatmap Tool](heatmap_tool.md)
+  - [Enrichment Network Tool](enrichment_network_tool.md)
+  - [Pathway Dysregulation Analysis Tool](dysregulation_tool.md)
+
+#### Statistical analysis of normalization results
+![Image](RNAseq_main.png)
+
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
