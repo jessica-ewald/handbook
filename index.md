@@ -13,6 +13,12 @@ Please choose one of the following tutorials:
 
 ![Image](RNAseq_main.png)
 
+### Authors of the Tutorial
+
+Othman Soufan
+Jessica Ewald
+Guangyan Zhou
+Jeff Xia
 
 ### Support or Contact
 
