@@ -7,3 +7,6 @@ For the "Link" option at the top left side, please choose "Overlap Ratio". Then,
 
 Another example of an erichment network is provided in the following snapshot. This network has a larger number of significant genes and hence, more connections between the enriched terms.
 ![Image](RNAseq_enrichment_network.png)
+
+### Next step: [Pathway Dysregulation Analysis Tool](dysregulation_tool.md)
+### Previous step: [Enrichment Network Tool](enrichment_network_tool.md)
