@@ -15,11 +15,13 @@ Please choose one of the following tutorials:
 
 ### Authors of the Tutorial
 
-Othman Soufan
-Jessica Ewald
-Guangyan Zhou
-Jeff Xia
+- Othman Soufan
+- Jessica Ewald
+- Guangyan Zhou
+- Jianguo Xia, Prof.
 
 ### Support or Contact
 
-Having trouble with Pages/Tools? contact othman.soufan [at] mcgill[dot]ca or jeff.xia [at] mcgill[dot]ca
+Having trouble with Pages/Tools? contact:
+- othman.soufan [at] mcgill[dot]ca or 
+- jeff.xia [at] mcgill[dot]ca
