@@ -9,3 +9,4 @@ From the available example datasets, select "Minnow (ethinylestradiol)".
 ![Image](RNAseq_upload_examples.png)
 
 ### Next step: [Data Summary and Quality Check](rnaseq_qc.md)
+### Previous step: [RNAseq analysis - Main](rnaseq.md)
