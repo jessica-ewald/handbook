@@ -14,5 +14,5 @@ The purpose of data normalization is to reduce any systematic technical bias wit
 
 In this case, we consider the data to be properly normalized because of the appearance of the characteristic “bell-shaped” distribution. Click the “Submit” button. 
 
-![Image](RNAseq_normalization_pca.png)
+![Image](RNAseq_normalization_density.png)
 
