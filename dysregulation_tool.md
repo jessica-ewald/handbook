@@ -7,3 +7,5 @@ For the working example of Minnow (ethinylestradiol), the following figure is ge
 ![Image](pathways_dysregulation.png)
 
 The [PCA](background_pca.md) plot at the right side is a visualization of all samples when a specific pathway is highlighted. 
+
+### Previous step: [Enrichment Network Tool](enrichment_network_tool.md)
