@@ -1,9 +1,18 @@
 # Data Filtering & Normalization
 
-#### Data normalization
-In this case, we will select “Normalization by sum” for sample normalization, “None” for data transformation and “Auto scaling” for data scaling. After selecting these options, click the “Submit” button. The purpose of data normalization is to reduce any systematic bias within a given data set and to improve overall data consistency so that meaningful biological comparisons can be made. EcoToxXplorer offers three types of normalization, transformation or scaling. Normalization aims to make each sample (row) comparable to each other. Three different data transformation methods are offered, no transformation, log transformation and cube-root transformation. Scaling aims to make each variable comparable to each other. This procedure is useful when variables are of very different orders of magnitude. The effect of data normalization is summarized graphically in Fig. XYZ. The horizontal box plots on the top show the distributions of individual variables, while the bottom plots show the overall data distribution based on kernel density estimation. Users should compare the graphical summary before and after normalization to guide them towards choosing the methods that work best with their data. In this case, we consider the data to be properly normalized because of the appearance of the characteristic “bell-shaped” distribution. Click the “Submit” button. 
+After viewing the raw data, the next step is to filter and normalize to increase the suitability for downstream statistical analyses. 
+
+#### Data filtering
+The purpose of filtering is to remove any genes that are uninteresting or unreliable. "Uninteresting genes" are genes whose expression values do not change across different samples, and thus have very low variance. Genes are ranked by their variance from low to high, and users can exclude a certain percentile of genes with the lowest variance by adjusting the "Low variance" slider. "Unreliable genes" are genes with low count numbers. This is a problem because the fit of the statistical models used for differential expression analysis becomes unstable with lower count numbers. Users can exclude genes with count numbers below a certain threshold by adjusting the "Low abundance" slider. Filtering out genes with low variance or count numbers improves the statistical power of the differential expression analysis, thus giving more differentially expressed genes without greatly increasing the number of false positives. 
 
 ![Image](rnaseq_filtering_view.png)
+
+#### Data normalization
+The purpose of data normalization is to reduce any systematic technical bias within a given data set and to improve overall data consistency so that meaningful biological comparisons can be made. After normalization, samples are more comparable to each other. EcoToxXplorer offers four types of normalization, all of which are established methods with high performance, and are accepted by the bioinformatics community. The effects of data normlization are summarized graphically by five different plots. Users should compare the graphical summary before and after normalization to guide them towards choosing the methods that work best with their data. If you scroll down to the boxplot image, you can that the samples are much more comparable to each other than before normalization.
+
 ![Image](RNAseq_normalization_boxplot.png)
+
+In this case, we consider the data to be properly normalized because of the appearance of the characteristic “bell-shaped” distribution. Click the “Submit” button. 
+
 ![Image](RNAseq_normalization_pca.png)
-![Image](RNAseq_normalization_density.png)
+
