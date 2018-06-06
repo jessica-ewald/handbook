@@ -16,3 +16,5 @@ In this case, we consider the data to be properly normalized because of the appe
 
 ![Image](RNAseq_normalization_density.png)
 
+### Previous step: [Differential Expression Analysis](rnaseq_DEG.md)
+### Next step: [Data Filtering & Normalization](rnaseq_filtering.md)
