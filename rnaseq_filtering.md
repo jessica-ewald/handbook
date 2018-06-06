@@ -8,7 +8,7 @@ The purpose of filtering is to remove any genes that are uninteresting or unreli
 ![Image](rnaseq_filtering_view.png)
 
 #### Data normalization
-The purpose of data normalization is to reduce any systematic technical bias within a given data set and to improve overall data consistency so that meaningful biological comparisons can be made. After normalization, samples are more comparable to each other. EcoToxXplorer offers four types of normalization, all of which are established methods with high performance, and are accepted by the bioinformatics community. The effects of data normlization are summarized graphically by five different plots. Users should compare the graphical summary before and after normalization to guide them towards choosing the methods that work best with their data. If you scroll down to the boxplot image, you can that the samples are much more comparable to each other than before normalization.
+The purpose of data normalization is to reduce any systematic technical bias within a given data set and to improve overall data consistency so that meaningful biological comparisons can be made. After normalization, samples are more comparable to each other. EcoToxXplorer offers four types of normalization, all of which are established methods with high performance, and are accepted by the bioinformatics community. The effects of data normlization are summarized graphically by five different plots. Users should compare the graphical summary before and after normalization to guide them towards choosing the methods that work best with their data. If you scroll down to the boxplot image, you can see that the samples are much more comparable to each other than before normalization.
 
 ![Image](RNAseq_normalization_boxplot.png)
 
