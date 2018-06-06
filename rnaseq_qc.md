@@ -10,5 +10,6 @@ You can browse through different visualizations of the raw data by clicking on t
 
 ![Image](RNAseq_prefiltering_boxplot.png)
 
-### Next step: [Data Upload and Annotation](rnaseq_upload.md)
-### Previous step: [Data Filtering & Normalization](rnaseq_filtering.md)
+### Next step: [Data Filtering & Normalization](rnaseq_filtering.md)
+### Previous step: [Data Upload and Annotation](rnaseq_upload.md)
+
