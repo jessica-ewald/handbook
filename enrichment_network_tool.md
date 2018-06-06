@@ -9,4 +9,4 @@ Another example of an erichment network is provided in the following snapshot. T
 ![Image](RNAseq_enrichment_network.png)
 
 ### Next step: [Pathway Dysregulation Analysis Tool](dysregulation_tool.md)
-### Previous step: [Enrichment Network Tool](enrichment_network_tool.md)
+### Previous step: [Heatmap Tool](heatmap_tool.md)
