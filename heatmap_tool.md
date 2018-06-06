@@ -11,3 +11,6 @@ For downloading the image, please see the "Download" option at the right side of
 ![Image](heatmap_2.png)
 
 For more details on the different options in the Heatmap Tool of EcoToxXplorer, please check this [file](heatmaps_tutorial.pdf).
+
+### Next step: [Enrichment Network Tool](enrichment_network_tool.md)
+### Previous step: [Heatmap Tool](heatmap_tool.md)
