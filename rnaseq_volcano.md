@@ -7,3 +7,6 @@ The volcano plot tool in EcoToxXplorer is interactive. Therefore, users can choo
 
 In the volcano plot tool, it easy to zoom in and out and select certain view or group of genes to update the [GSEA](ackground_gsea.md). As the following figure, only a group of down-regulated genes were selected. Then, the "Query" option for GSEA analysis is set to "Current View" which means to consider only the zoomed view for the enrichment analysis. The user can click submit and an updated version of the enrichment results will appear in the table. Also, the GSEA functionality provides "Query" option to select either all up-regulated or down-regulated genes.
 ![Image](tutorial_volcano_plot3.png)
+
+### Next step: [Heatmap Tool](heatmap_tool.md)
+### Previous step: [Differential Expression Analysis](rnaseq_DEG.md)
