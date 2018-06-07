@@ -11,4 +11,4 @@ There are three different methods available for fitting statistical models in th
 You can redo the differential expression analysis using a different method or comparison by selecting different options and then clicking "Submit" again. Once you are done, click the "Proceed" to move on to visualize the results of the differential expression analysis. 
 
 ### Next step: [Volcano Plot Tool](rnaseq_volcano.md)
-### Previous step: [Data Filtering and Normalization](rnaseq_filtering.md)
+### Previous step: [Data Filtering & Normalization](rnaseq_filtering.md)
