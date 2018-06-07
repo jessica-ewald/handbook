@@ -6,6 +6,7 @@ To make the data analysis process as simple and as painless as possible, EcoToxX
 
 Please choose one of the following tutorials:
 
+- [Download lecture slides](RNAseq_Saskatoon.pdf)
 - [RNAseq analysis in EcoToxXplorer](rnaseq.md)
 - [Background material (NOT FOR DUMMIES!)](background.md)
 
