@@ -8,7 +8,7 @@ Please choose one of the following tutorials:
 
 - [Download lecture slides](RNAseq_Saskatoon.pdf)
 - [RNAseq analysis in EcoToxXplorer](rnaseq.md)
-- [Exercise](https://docs.google.com/forms/d/1YhEismRBeDYzKa0o9o_kML53oL_m126Qw0Y3QYvu4R8/prefill)
+- [Exercise](https://docs.google.com/forms/d/e/1FAIpQLSfDKKNbEBLgBY3a7bL5HXhRKgjEDPenvDA5DC8VToIULU9ssw/viewform)
 - [Background material (NOT FOR DUMMIES!)](background.md)
 
 
