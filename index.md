@@ -6,10 +6,9 @@ To make the data analysis process as simple and as painless as possible, EcoToxX
 
 Please choose one of the following tutorials:
 
-- [RNAseq lecture slides (soon)]()
-- [Background material (NOT FOR DUMMIES!)](background.md)
 - [RNAseq analysis in EcoToxXplorer](rnaseq.md)
-- [Other utilities in EcoToxXplorer](othertools.md)
+- [Background material (NOT FOR DUMMIES!)](background.md)
+
 
 ![Image](RNAseq_main.png)
 
