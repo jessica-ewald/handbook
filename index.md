@@ -17,6 +17,7 @@ Please choose one of the following tutorials:
 - Othman Soufan
 - Jessica Ewald
 - Guangyan Zhou
+- Alper James Alcaraz
 - Jianguo Xia, Prof.
 
 ### Support or Contact
